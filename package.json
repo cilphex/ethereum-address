@@ -2,7 +2,7 @@
   "author": "Craig Hammell <cilphex@gmail.com>",
   "name": "ethereum-address",
   "description": "Ethereum address validation",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engineStrict": true,
   "engines": {
     "npm": ">= 3.7.0",
