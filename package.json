@@ -1,0 +1,27 @@
+{
+  "author": "Craig Hammell <cilphex@gmail.com>",
+  "name": "ethereum-address",
+  "description": "Ethereum address validation",
+  "version": "0.0.1",
+  "engineStrict": true,
+  "engines": {
+    "npm": ">= 3.7.0",
+    "node": "4.3.0"
+  },
+  "homepage": "https://github.com/cilphex/ethereum-address",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/cilphex/ethereum-address.git"
+  },
+  "license": "MIT",
+  "main": "index",
+  "dependencies": {
+    "crypto-js": "^3.1.6"
+  },
+  "devDependencies": {
+    "mocha": "^2.4.5"
+  },
+  "scripts": {
+    "test": "mocha test/index.js"
+  }
+}
