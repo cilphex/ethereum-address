@@ -6,7 +6,7 @@
   "engineStrict": true,
   "engines": {
     "npm": ">= 3.7.0",
-    "node": "4.3.0"
+    "node": ">= 4.3.0"
   },
   "homepage": "https://github.com/cilphex/ethereum-address",
   "repository": {
